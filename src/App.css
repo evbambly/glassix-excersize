@@ -1,27 +1,42 @@
 .App {
   text-align: center;
+  background-color: #282c34;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  position: absolute;
+  margin-top:-20%;
+  z-index: 0;
 }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite 120s linear;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .map {
+    width: 80%;
   }
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.map{
+  width: 60%;
+}
+
+.Map-header {
+  z-index: 5;
 }
 
 .App-link {
