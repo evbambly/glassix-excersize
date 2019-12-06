@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/glassix-excersize/static/css/main.94174726.chunk.css",
+    "main.js": "/glassix-excersize/static/js/main.2bd73a8d.chunk.js",
+    "main.js.map": "/glassix-excersize/static/js/main.2bd73a8d.chunk.js.map",
+    "runtime-main.js": "/glassix-excersize/static/js/runtime-main.2695cb61.js",
+    "runtime-main.js.map": "/glassix-excersize/static/js/runtime-main.2695cb61.js.map",
+    "static/js/2.23172ef1.chunk.js": "/glassix-excersize/static/js/2.23172ef1.chunk.js",
+    "static/js/2.23172ef1.chunk.js.map": "/glassix-excersize/static/js/2.23172ef1.chunk.js.map",
+    "index.html": "/glassix-excersize/index.html",
+    "precache-manifest.99a57b673564cd82451c2effce833e84.js": "/glassix-excersize/precache-manifest.99a57b673564cd82451c2effce833e84.js",
+    "service-worker.js": "/glassix-excersize/service-worker.js",
+    "static/css/main.94174726.chunk.css.map": "/glassix-excersize/static/css/main.94174726.chunk.css.map",
+    "static/js/2.23172ef1.chunk.js.LICENSE": "/glassix-excersize/static/js/2.23172ef1.chunk.js.LICENSE",
+    "static/media/logo.svg": "/glassix-excersize/static/media/logo.1666b365.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2695cb61.js",
+    "static/js/2.23172ef1.chunk.js",
+    "static/css/main.94174726.chunk.css",
+    "static/js/main.2bd73a8d.chunk.js"
+  ]
+}
