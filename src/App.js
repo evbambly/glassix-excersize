@@ -34,9 +34,11 @@ class App extends React.Component {
   render() {
     const headElement = (
       <div className="Map-header">
-        <h2>
+      <h2>
           <GitHubIcon fontSize={"large"} />
-          &nbsp; #GitHub ref
+          &nbsp; #GitHub &nbsp;
+          <a href="https://github.com/evbambly/glassix-excersize" target="_blank" 
+          rel="noopener noreferrer" className="App-link">Eitan's App</a>
         </h2>
       </div>
     )
